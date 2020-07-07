@@ -14,6 +14,7 @@
    limitations under the License.
 */
 
+//nolint:deadcode,unused
 package continuity
 
 import (
